@@ -218,17 +218,11 @@ class _MYBudgetsWidgetState extends State<MYBudgetsWidget>
                                       0.0, 8.0, 0.0, 12.0),
                                   child: Text(
                                     FFLocalizations.of(context).getText(
-                                      'jjj3ydb1' /* +$12,402 */,
+                                      'jjj3ydb1' /* Ksh12,402 */,
                                     ),
                                     textAlign: TextAlign.start,
                                     style: FlutterFlowTheme.of(context)
-                                        .displaySmall
-                                        .override(
-                                          fontFamily: 'Lexend',
-                                          color: FlutterFlowTheme.of(context)
-                                              .tertiary,
-                                          fontSize: 32.0,
-                                        ),
+                                        .headlineMedium,
                                   ),
                                 ),
                                 Container(
@@ -305,7 +299,7 @@ class _MYBudgetsWidgetState extends State<MYBudgetsWidget>
                                       0.0, 8.0, 0.0, 12.0),
                                   child: Text(
                                     FFLocalizations.of(context).getText(
-                                      'a5zzlh8f' /* -$8,392 */,
+                                      'a5zzlh8f' /* Ksh8,392 */,
                                     ),
                                     textAlign: TextAlign.start,
                                     style: FlutterFlowTheme.of(context)
@@ -471,7 +465,7 @@ class _MYBudgetsWidgetState extends State<MYBudgetsWidget>
                                               .budgetAmountNumber,
                                           formatType: FormatType.decimal,
                                           decimalType: DecimalType.automatic,
-                                          currency: '\$',
+                                          currency: 'Ksh',
                                         ),
                                         style: FlutterFlowTheme.of(context)
                                             .displaySmall

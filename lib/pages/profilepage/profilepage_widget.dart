@@ -215,7 +215,7 @@ class _ProfilepageWidgetState extends State<ProfilepageWidget>
                                   0.0, 8.0, 0.0, 0.0),
                               child: Text(
                                 FFLocalizations.of(context).getText(
-                                  '9oun2uok' /* $7,302 */,
+                                  '9oun2uok' /* Ksh7,302 */,
                                 ),
                                 style:
                                     FlutterFlowTheme.of(context).displaySmall,
@@ -300,7 +300,7 @@ class _ProfilepageWidgetState extends State<ProfilepageWidget>
                                   0.0, 8.0, 0.0, 0.0),
                               child: Text(
                                 FFLocalizations.of(context).getText(
-                                  'fi3cleyj' /* $7,302 */,
+                                  'fi3cleyj' /* Ksh7,302 */,
                                 ),
                                 style:
                                     FlutterFlowTheme.of(context).displaySmall,
@@ -385,7 +385,7 @@ class _ProfilepageWidgetState extends State<ProfilepageWidget>
                                   0.0, 8.0, 0.0, 0.0),
                               child: Text(
                                 FFLocalizations.of(context).getText(
-                                  'krsyyttw' /* $7,302 */,
+                                  'krsyyttw' /* Ksh7,302 */,
                                 ),
                                 style:
                                     FlutterFlowTheme.of(context).displaySmall,

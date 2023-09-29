@@ -161,7 +161,7 @@ class _CreateBudgetWidgetState extends State<CreateBudgetWidget>
                         children: [
                           Text(
                             FFLocalizations.of(context).getText(
-                              'smbfunwu' /* Create Budget */,
+                              'smbfunwu' /* Create Receipt */,
                             ),
                             style: FlutterFlowTheme.of(context).displaySmall,
                           ),
@@ -541,7 +541,7 @@ class _CreateBudgetWidgetState extends State<CreateBudgetWidget>
                               context.pop();
                             },
                             text: FFLocalizations.of(context).getText(
-                              '0iex13x2' /* Create Budget */,
+                              '0iex13x2' /* Create Receipt */,
                             ),
                             options: FFButtonOptions(
                               width: 300.0,

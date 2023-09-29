@@ -271,7 +271,7 @@ class _MYCardWidgetState extends State<MYCardWidget>
                               children: [
                                 Text(
                                   FFLocalizations.of(context).getText(
-                                    'h3086ma4' /* $7,630 */,
+                                    'h3086ma4' /* Ksh7,630 */,
                                   ),
                                   style: FlutterFlowTheme.of(context)
                                       .displaySmall

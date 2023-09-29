@@ -272,7 +272,7 @@ class _HomePageAlt1WidgetState extends State<HomePageAlt1Widget>
                               children: [
                                 Text(
                                   FFLocalizations.of(context).getText(
-                                    'syy689nt' /* $7,630 */,
+                                    'syy689nt' /* Ksh 7,630 */,
                                   ),
                                   style: FlutterFlowTheme.of(context)
                                       .displaySmall

@@ -637,7 +637,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Equilibrio',
     },
     'h3086ma4': {
-      'en': '\$7,630',
+      'en': 'Ksh7,630',
       'ar': '7630 دولارًا',
       'de': '\$7.630',
       'es': '\$7,630',
@@ -724,7 +724,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Ingreso',
     },
     'jjj3ydb1': {
-      'en': '+\$12,402',
+      'en': 'Ksh12,402',
       'ar': '+ 12402 دولار',
       'de': '+12.402 \$',
       'es': '+\$12,402',
@@ -742,7 +742,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Gasto',
     },
     'a5zzlh8f': {
-      'en': '-\$8,392',
+      'en': 'Ksh8,392',
       'ar': '- 8،392 دولارًا',
       'de': '-8.392 \$',
       'es': '-\$8,392',
@@ -995,7 +995,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
   // transferFunds
   {
     'pe3o18oh': {
-      'en': 'Transfer Funds',
+      'en': 'Transfer Receipt',
       'ar': 'تحويل الأموال',
       'de': 'Geld überweisen',
       'es': 'Transferir fondos',
@@ -1085,25 +1085,25 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': '\$ Monto',
     },
     'wngoi0v4': {
-      'en': 'Your new account balance is:',
+      'en': 'The receipt is wsent to:',
       'ar': 'رصيد حسابك الجديد هو:',
       'de': 'Ihr neuer Kontostand beträgt:',
       'es': 'El nuevo saldo de su cuenta es:',
     },
     'g6bfec2g': {
-      'en': '\$7,630',
+      'en': '',
       'ar': '7630 دولارًا',
       'de': '\$7.630',
       'es': '\$7,630',
     },
     'xaw2jdst': {
-      'en': 'Send Transfer',
+      'en': 'Send ',
       'ar': 'أرسل حوالة',
       'de': 'Überweisung senden',
       'es': 'Enviar transferencia',
     },
     'xku4zxbe': {
-      'en': 'Tap above to complete transfer',
+      'en': 'Tap above to complete ',
       'ar': 'اضغط أعلاه لإكمال النقل',
       'de': 'Tippen Sie oben, um die Übertragung abzuschließen',
       'es': 'Toque arriba para completar la transferencia',
@@ -1175,7 +1175,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
   // createBudget
   {
     'smbfunwu': {
-      'en': 'Create Budget',
+      'en': 'Create Receipt',
       'ar': 'إنشاء الميزانية',
       'de': 'Budget erstellen',
       'es': 'Crear presupuesto',
@@ -1223,7 +1223,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Monto',
     },
     '0iex13x2': {
-      'en': 'Create Budget',
+      'en': 'Create Receipt',
       'ar': 'إنشاء الميزانية',
       'de': 'Budget erstellen',
       'es': 'Crear presupuesto',
@@ -1990,7 +1990,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Equilibrio',
     },
     'syy689nt': {
-      'en': '\$7,630',
+      'en': 'Ksh 7,630',
       'ar': '7630 دولارًا',
       'de': '\$7.630',
       'es': '\$7,630',
@@ -2173,7 +2173,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Bitcoin',
     },
     '9oun2uok': {
-      'en': '\$7,302',
+      'en': 'Ksh7,302',
       'ar': '7302 دولار',
       'de': '\$7.302',
       'es': '\$7,302',
@@ -2191,7 +2191,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Soloña',
     },
     'fi3cleyj': {
-      'en': '\$7,302',
+      'en': 'Ksh7,302',
       'ar': '7302 دولار',
       'de': '\$7.302',
       'es': '\$7,302',
@@ -2209,7 +2209,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'dogecoin',
     },
     'krsyyttw': {
-      'en': '\$7,302',
+      'en': 'Ksh7,302',
       'ar': '7302 دولار',
       'de': '\$7.302',
       'es': '\$7,302',

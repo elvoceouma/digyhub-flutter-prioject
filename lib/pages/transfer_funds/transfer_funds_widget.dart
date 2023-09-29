@@ -290,7 +290,7 @@ class _TransferFundsWidgetState extends State<TransferFundsWidget>
                       children: [
                         Text(
                           FFLocalizations.of(context).getText(
-                            'pe3o18oh' /* Transfer Funds */,
+                            'pe3o18oh' /* Transfer Receipt */,
                           ),
                           style: FlutterFlowTheme.of(context).displaySmall,
                         ),
@@ -599,13 +599,13 @@ class _TransferFundsWidgetState extends State<TransferFundsWidget>
                         children: [
                           Text(
                             FFLocalizations.of(context).getText(
-                              'wngoi0v4' /* Your new account balance is: */,
+                              'wngoi0v4' /* The receipt is wsent to: */,
                             ),
                             style: FlutterFlowTheme.of(context).bodySmall,
                           ),
                           Text(
                             FFLocalizations.of(context).getText(
-                              'g6bfec2g' /* $7,630 */,
+                              'g6bfec2g' /*  */,
                             ),
                             textAlign: TextAlign.end,
                             style: FlutterFlowTheme.of(context).headlineSmall,
@@ -642,7 +642,7 @@ class _TransferFundsWidgetState extends State<TransferFundsWidget>
                         );
                       },
                       text: FFLocalizations.of(context).getText(
-                        'xaw2jdst' /* Send Transfer */,
+                        'xaw2jdst' /* Send  */,
                       ),
                       options: FFButtonOptions(
                         width: 300.0,
@@ -672,7 +672,7 @@ class _TransferFundsWidgetState extends State<TransferFundsWidget>
           ),
           Text(
             FFLocalizations.of(context).getText(
-              'xku4zxbe' /* Tap above to complete transfer */,
+              'xku4zxbe' /* Tap above to complete  */,
             ),
             style: FlutterFlowTheme.of(context).bodyMedium.override(
                   fontFamily: 'Lexend',
