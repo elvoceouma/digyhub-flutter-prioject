@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "387736893319",
+    "project_id": "diggyreceipts",
+    "storage_bucket": "diggyreceipts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387736893319:android:74e4bf6197d18ec6760522",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387736893319-1hh7nlb5ctm1utn7l8os918k723g19tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1_WkrIHBT30cLSyqFB88lYiVOgewNvgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387736893319-1hh7nlb5ctm1utn7l8os918k723g19tr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "387736893319-sg5rdd8stosijko62odpmunf4r331lb1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.healthai"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387736893319:android:6d4ed8a7d80bd78f760522",
+        "android_client_info": {
+          "package_name": "com.flutterflow.healthai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387736893319-1hh7nlb5ctm1utn7l8os918k723g19tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1_WkrIHBT30cLSyqFB88lYiVOgewNvgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387736893319-1hh7nlb5ctm1utn7l8os918k723g19tr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "387736893319-sg5rdd8stosijko62odpmunf4r331lb1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.healthai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
